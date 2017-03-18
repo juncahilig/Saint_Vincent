@@ -1,0 +1,76 @@
+<<<<<<< HEAD
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.exe
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.pdb
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.xml
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.Resources.resources
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.vbproj.GenerateResource.Cache
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.HomePage.resources
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminPage.resources
+c:\users\ariane\documents\visual studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.ModifyPage.resources
+C:\Users\jai\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+C:\Users\jai\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+C:\Users\jai\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+C:\Users\Jun Cahilig III\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+C:\Users\Jun Cahilig III\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+C:\Users\Jun Cahilig III\Desktop\final_project_swengg1\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+=======
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\bin\Debug\Saint_Vincent.exe
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\bin\Debug\Saint_Vincent.pdb
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\bin\Debug\Saint_Vincent.xml
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.HomePage.resources
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.Resources.resources
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.vbproj.GenerateResource.Cache
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+C:\Users\jai\AppData\Local\Temporary Projects\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.exe
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.pdb
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.xml
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.HomePage.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.Resources.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.vbproj.GenerateResource.Cache
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminAddBook.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminPage.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminSearchBook.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.UserSearchBook.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminBookInfo.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminDeleteBook.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminInventory.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminModifyPage.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminModifyBook.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminHomePage.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminTransactionPage.resources
+C:\Users\jai\Documents\Visual Studio 2010\Projects\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.UserBookInfo.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.exe
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.xml
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.pdb
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminAddBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminBookInfo.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminDeleteBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminInventory.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminModifyPage.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminModifyBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminHomePage.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminPage.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminTransactionPage.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.HomePage.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminSearchBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.UserBookInfo.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.UserSearchBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.vbproj.GenerateResource.Cache
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.exe
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.pdb
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.xml
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.Resources.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminBorrowBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminReturnBook.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\bin\Debug\Saint_Vincent.exe.config
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminChangePassword.resources
+C:\Users\jai\Desktop\Saint_Vincent\Saint_Vincent\obj\x86\Debug\Saint_Vincent.AdminPendingBook.resources
+>>>>>>> origin/master

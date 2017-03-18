@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97A7BB36-90CB-4D72-BFED-28D0B34018AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Saint_Vincent.My.MyApplication</StartupObject>
+    <RootNamespace>Saint_Vincent</RootNamespace>
+    <AssemblyName>Saint_Vincent</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Saint_Vincent.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Saint_Vincent.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="TransactionLog.Designer.vb">
+      <DependentUpon>TransactionLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.vb">
+=======
+    <Compile Include="AdminAddBook.Designer.vb">
+      <DependentUpon>AdminAddBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAddBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminBookInfo.Designer.vb">
+      <DependentUpon>AdminBookInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBookInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminBorrowBook.Designer.vb">
+      <DependentUpon>AdminBorrowBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBorrowBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminChangePassword.Designer.vb">
+      <DependentUpon>AdminChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminChangePassword.vb">
+>>>>>>> origin/master
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDeleteBook.Designer.vb">
+      <DependentUpon>AdminDeleteBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDeleteBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInventory.Designer.vb">
+      <DependentUpon>AdminInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminModifyPage.Designer.vb">
+      <DependentUpon>AdminModifyPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminModifyPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminModifyBook.Designer.vb">
+      <DependentUpon>AdminModifyBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminModifyBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHomePage.Designer.vb">
+      <DependentUpon>AdminHomePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPage.Designer.vb">
+      <DependentUpon>AdminPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPendingBook.Designer.vb">
+      <DependentUpon>AdminPendingBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPendingBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminReturnBook.Designer.vb">
+      <DependentUpon>AdminReturnBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminReturnBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminTransactionPage.Designer.vb">
+      <DependentUpon>AdminTransactionPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminTransactionPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.vb">
+      <DependentUpon>HomePage.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="AdminSearchBook.Designer.vb">
+      <DependentUpon>AdminSearchBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSearchBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserBookInfo.Designer.vb">
+      <DependentUpon>UserBookInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserBookInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserSearchBook.Designer.vb">
+      <DependentUpon>UserSearchBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserSearchBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+<<<<<<< HEAD
+    <EmbeddedResource Include="TransactionLog.resx">
+      <DependentUpon>TransactionLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+=======
+    <EmbeddedResource Include="AdminAddBook.resx">
+      <DependentUpon>AdminAddBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminBookInfo.resx">
+      <DependentUpon>AdminBookInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminBorrowBook.resx">
+      <DependentUpon>AdminBorrowBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminChangePassword.resx">
+      <DependentUpon>AdminChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDeleteBook.resx">
+      <DependentUpon>AdminDeleteBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInventory.resx">
+      <DependentUpon>AdminInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminModifyPage.resx">
+      <DependentUpon>AdminModifyPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminModifyBook.resx">
+      <DependentUpon>AdminModifyBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHomePage.resx">
+      <DependentUpon>AdminHomePage.vb</DependentUpon>
+>>>>>>> origin/master
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPage.resx">
+      <DependentUpon>AdminPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPendingBook.resx">
+      <DependentUpon>AdminPendingBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminReturnBook.resx">
+      <DependentUpon>AdminReturnBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminTransactionPage.resx">
+      <DependentUpon>AdminTransactionPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSearchBook.resx">
+      <DependentUpon>AdminSearchBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserBookInfo.resx">
+      <DependentUpon>UserBookInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSearchBook.resx">
+      <DependentUpon>UserSearchBook.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
